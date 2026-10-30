@@ -50,5 +50,5 @@ We will calculate positions using the **weighted average cost**:
 
 ## References
 
-- Receita Federal, *Perguntas e Respostas IRPF*, chapter "Renda variável" (acquisition cost by weighted average): <!-- TODO: add link to the current edition -->
+- Receita Federal, [*Perguntas e Respostas IRPF 2026*](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf), chapter "Renda variável", question "Mercado à vista – custo dos ativos": the acquisition cost is the weighted average of the unit costs ("média ponderada dos custos unitários").
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions), Michael Nygard (ADR format)
