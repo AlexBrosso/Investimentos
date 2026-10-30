@@ -4,7 +4,7 @@
 
 A portfolio tracker for B3 (Brazilian stock exchange) investors: record your buy and sell trades and let the app calculate your position, average price and returns using real market quotes.
 
-Many investors track their trades in spreadsheets, calculating average prices and gains by hand. This project replaces that spreadsheet with an API that does the math consistently, following the Brazilian tax rule for average cost (weighted average, as required by Receita Federal).
+Investors often track their trades in spreadsheets, calculating average prices and gains by hand. This project replaces that spreadsheet with an API that does the math consistently, following the Brazilian tax rule for average cost (weighted average, as required by Receita Federal).
 
 > **Status:** early development. This is a study project focused on modern .NET backend practices.
 
